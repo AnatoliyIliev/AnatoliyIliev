@@ -1,7 +1,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=your-github-AnatoliyIliev) -->
 
 <h1 align="left">Hi there👋, I'm Anatoliy</h1>
-<h3 align="left">A junior frontend developer from Ukraine</h3>
+<h3 align="left">A frontend developer from Ukraine</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
