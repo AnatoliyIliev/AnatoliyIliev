@@ -17,7 +17,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="90" height="30"/> </a>
  
- <a href="https://www.codewars.com/users/AnatoliyIliev"><img src="https://www.codewars.com/users/AnatoliyIliev/badges/large" alt="Codewars" width="100"/></a>
+ <a href="https://www.codewars.com/users/AnatoliyIliev"><img src="https://www.codewars.com/users/AnatoliyIliev/badges/large" alt="Codewars" width="500"/></a>
  
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnatoliyIliev&theme=tokyonight&layout=compact) -->
