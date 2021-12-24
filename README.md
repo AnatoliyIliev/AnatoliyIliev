@@ -1,5 +1,3 @@
-<!-- ![](https://komarev.com/ghpvc/?username=your-github-AnatoliyIliev) -->
-
 <h1 align="left">Hi there👋, I'm Anatoliy</h1>
 <h3 align="left">A frontend developer from Ukraine</h3>
 
