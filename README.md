@@ -27,6 +27,6 @@
 <h3 align="left">Contact with me:</h3>
 
 [![#Linkedin](https://img.shields.io/badge/linkedin-cornflowerblue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anatoliy-iliev)
-[![#Discord](https://img.shields.io/badge/linkedin-cornflowerblue?style=flat&logo=discord)](https://discord.com/channels/@Anatoliy(AnatoliyIliev)#0257)
+[![#Discord](https://img.shields.io/badge/discord-cornflowerblue?style=flat&logo=discord)](https://discord.com/channels/@Anatoliy(AnatoliyIliev)#0257)
 [![#Telegram](https://img.shields.io/badge/Telegram-cornflowerblue?style=flat&logo=telegram)](https://t.me/Anatoliy_Iliev)
 [![#e-mail](https://img.shields.io/badge/Iliev_Anatoliy-cornflowerblue?style=plastic&logo=gmail&link=mailto:anatoliyiliiev@gmail.com)](mailto:anatoliyiliiev@gmail.com)
