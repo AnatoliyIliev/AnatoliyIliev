@@ -20,8 +20,7 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnatoliyIliev&theme=tokyonight&layout=compact) -->
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnatoliyIliev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnatoliyIliev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Contact with me:</h3>
