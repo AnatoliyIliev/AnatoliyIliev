@@ -22,7 +22,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnatoliyIliev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <h3 align="left">Contact with me:</h3>
 
 [![#Linkedin](https://img.shields.io/badge/linkedin-cornflowerblue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anatoliy-iliev)
